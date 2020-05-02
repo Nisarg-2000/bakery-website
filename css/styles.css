@@ -1,0 +1,176 @@
+.navbar-nav {
+  text-align: center;
+}
+.cake-img {
+  width: 1350px;
+}
+h2 {
+  text-align: center;
+  color: #ffb6b9;
+}
+
+.first-portion {
+  margin-top: 10px;
+}
+
+.second-portion {
+  margin-top: 10px;
+
+}
+
+.brand-name {
+
+  font-size: 100px;
+  margin-left: 550px;
+  position: absolute;
+  margin-top: 250px;
+}
+
+h5 {
+  font-size: 20px;
+  margin-left: 550px;
+  position: absolute;
+  margin-top: 380px;
+  color: #b7472a;
+}
+
+.formelement {
+  text-align: center;
+}
+
+#btn {
+  position: absolute;
+  margin-top: 420px;
+  margin-left: 620px;
+}
+
+.third-portion {
+  margin-top: 20PX;
+}
+
+#form-control {
+  margin-top: 20px;
+  margin-left: 570px;
+  border-color: #8ac6d1;
+  width: 300px;
+}
+
+.hr1 {
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 100px;
+  margin-top: 50px;
+}
+
+.hr2 {
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 100px;
+  margin-top: 0px;
+}
+
+#last-part {
+
+  background-color: #ecdfc8;
+  margin-top: 50px;
+}
+
+p {
+  text-align: center;
+  color: #4f3961;
+}
+
+.fa {
+  padding-left: 10px;
+}
+
+h6 {
+  text-align: center;
+  color: #5b8c5a;
+}
+
+#btn1 {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+  /* @media (min-width: 320px) {
+
+    #form-control {
+      margin-left: 400px;
+    }
+
+    p,h6,h2,.btn {
+      font-size: 50px;
+    }
+
+    #first-class {
+      font-size: 50px;
+    }
+
+    #form-control {
+      font-size: 30px;
+      margin-left: 500px;
+      margin-top: 30px;
+    }
+
+    #btn {
+      margin-left: 540px;
+      margin-top: 450px;
+    }
+
+    h2 {
+      margin-left: 350px;
+    }
+
+  .hr2 {
+    margin-left: 550px;
+    border-width: 30px;
+    width: 250px;
+  }
+
+  .hr1 {
+    margin-left: 550px;
+    border-width: 30px;
+    width: 250px;
+  }
+
+  .third-portion {
+    margin-top: 30px;
+    font-size: 50px;
+  }
+
+  h5,h2 {
+    font-size: 30px;
+  }
+
+  h5 {
+    margin-left: 500px;
+  }
+
+  .cake-img {
+    height: 1000px;
+  }
+
+  .navbar {
+    width: 1300px;
+    font-size: 100px;
+  }
+
+  .navbar-toggler {
+    font-size: 60px;
+  }
+
+  .navbar-brand {
+    font-size: 60px;
+  }
+
+    #btn1 {
+      margin-left: 340px;
+      margin-top: 30px;
+    }
+
+    #last-part {
+      width: 1300px;
+      }
+  } */
